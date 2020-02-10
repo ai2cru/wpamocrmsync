@@ -1,4 +1,4 @@
-# wpamocrmsync
+# WpAmoCRMSync
 WpAmoCRMSync allows you to send data from forms directly to the AmoCRM.
 
 #### Important, to use integration you must include special code in your template!
