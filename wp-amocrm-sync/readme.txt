@@ -11,8 +11,6 @@ WpAmoCRMSync allows you to send data from forms directly to the AmoCRM.
 
 == Description ==
 
-Akismet checks your comments and contact form submissions against our global database of spam to prevent your site from publishing malicious content. You can review the comment spam it catches on your blog's "Comments" admin screen.
-
 Major features in WpAmoCRMSync include:
 
 * Easy connection setup.
